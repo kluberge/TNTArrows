@@ -1,0 +1,8 @@
+name: TNTArrows
+version: 1.0
+main: me.kluberge.tntarrows.TNTArrows
+author: kluberge
+commands:
+    tntarrow:
+        description: TNTArrow Command
+        usage: /tntarrow give <playername> <type> <amount>
